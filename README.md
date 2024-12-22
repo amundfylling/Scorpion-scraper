@@ -7,8 +7,8 @@
  ## create_data.ipynb
  Jupyter notebook that scrapes all matches from tournament stages that has not been scraped already, i.e are not in tournament_urls.txt
 
- ## th_matches.csv
- CSV file with all the matches. Contains the following columns:
+ ## th_matches.parquet
+ Parquet file with all the matches. Contains the following columns:
  * **StageID**: The ID of the stage the match was in. The link to the stage can easily be created using this column in the following way: http://th.sportscorpion.com/eng/tournament/stage/{StageID}/matches/
  * **Player1**: Player playing on home side
  * **Player1ID**: Player ID of player playing on home side
