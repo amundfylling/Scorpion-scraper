@@ -16,5 +16,8 @@
  * **GoalsPlayer2**: Number of goals for Player2
  * **Overtime**: Yes if the match went to overtime, No otherwise
  * **Stage**: Round-robin or Play-off
+ * **RoundNumber**: Represents the round number of a match. For playoff matches, RoundNumber will be set to a numeric value (e.g. 0.25 for quarterfinal).
  * **Date**: Date of the tournament. For tournaments over several day, this will be the first day of the tournament.
  * **TournamentName**: Name of the tournament
+ * **TournamentID**: ID of the tournament. The link to the tournament can easily be created using this column in the following way: https://th.sportscorpion.com/eng/tournament/id/{TournamentID}
+ * **StageSequence**: Which sequence of the tournament the stage is. Basic groups is usually sequence 1, followed by final groups and playoffs.
