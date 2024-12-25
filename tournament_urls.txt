@@ -5481,3 +5481,10 @@
 /eng/tournament/id/6913/
 /eng/tournament/id/6915/
 /eng/tournament/id/6924/
+/eng/tournament/id/6903/
+/eng/tournament/id/6905/
+/eng/tournament/id/6787/
+/eng/tournament/id/6910/
+/eng/tournament/id/6628/
+/eng/tournament/id/6865/
+/eng/tournament/id/6886/
